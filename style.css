@@ -1,0 +1,20 @@
+#canvas {
+    width: 70%;
+    margin: auto;
+}
+
+#avatar {
+    width: 200px;
+    display: inline;
+}
+
+.hori-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.text-container {
+    text-align: center;
+}
